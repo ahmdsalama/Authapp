@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041600483127",
+    "firebase_url": "https://authaapp.firebaseio.com",
+    "project_id": "authaapp",
+    "storage_bucket": "authaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041600483127:android:de7002a214fb2dde",
+        "android_client_info": {
+          "package_name": "com.salama.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041600483127-u27da7o2u2s2uijniecnm2fe23p6kmca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salama.authapp",
+            "certificate_hash": "3cf3bba3e6b20d12bacd6c2a13c1285ab2f40331"
+          }
+        },
+        {
+          "client_id": "1041600483127-dviu15oja4935ahf2afr8hl2fq18qhn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsqWv-bRn7Mu_GyvrnY1Iiyv8o5nnbcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041600483127-dviu15oja4935ahf2afr8hl2fq18qhn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
