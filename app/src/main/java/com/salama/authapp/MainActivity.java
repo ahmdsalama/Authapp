@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
         if(edpassword.length()<6)
         {
             edpassword.setError("Minimum length of password is 6");
-            edpassword.requestFocus();
+            edpassword.requestFocus();  # comment to test 
             return;
         }
         progressBar.setVisibility(View.VISIBLE);
